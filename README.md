@@ -1,6 +1,6 @@
 # My first android game FLYING DOLL
 
- * support available till android marshmallow :+1:
+ * support available till android marshmallow 6.0:+1:
  * Some images of game
  * Download link [Download](https://drive.google.com/open?id=0B8MoaKwy1GWYN0p1UXBhYzZEZmM)
 
